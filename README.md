@@ -51,6 +51,10 @@ Compete with friends and family with our X and I game written in Java
 |:--:|
 |Github: [Andrew Kenneth](https://github.com/andykenneth05)|
 
+
+
+https://github.com/Pjay-001
+
 ## Support
 
 Give this repo a ⭐ if you like it
